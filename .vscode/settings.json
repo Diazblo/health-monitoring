@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cps": "javascript",
+        "*.h": "cpp",
+        "*.lat": "cpp"
+    }
+}
